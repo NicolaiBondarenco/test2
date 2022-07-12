@@ -1,0 +1,24 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    margin-top: 25px;
+}
+
+.header-title a {
+    text-decoration: none;
+    color: aliceblue;
+}
+
+.header-list{
+    display: flex;
+    list-style: none;
+}
+
+.header-list__item{
+    margin-left: 50px;
+}
+
+.header-list__item a{
+    text-decoration: none;
+}

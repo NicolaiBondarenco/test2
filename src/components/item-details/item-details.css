@@ -1,0 +1,23 @@
+.person-details{
+    background-color: #303030;
+    display: flex;
+    padding: 20px;
+    border-radius: 5px;
+    width: 450px;
+}
+
+.person-details__img{
+    max-width: 210px;
+    max-height: 200px;
+    border-radius: 5px;
+    margin-right: 20px;
+}
+
+.person-details__list{
+    list-style: none;
+    padding-left: 20px;
+}
+
+.person-details__item{
+    margin-bottom: 10px;
+}

@@ -1,0 +1,22 @@
+.rendom-planet{
+    background-color: #303030;
+    display: flex;
+    padding: 20px;
+    border-radius: 5px;
+    margin-bottom: 25px;
+}
+
+.rendom-planet__img{
+    max-height: 200px;
+    border-radius: 5px;
+    margin-right: 20px;
+}
+
+.rendom-planet__list{
+    list-style: none;
+    padding-left: 20px;
+}
+
+.rendom-planet__item{
+    margin-bottom: 10px;
+}
